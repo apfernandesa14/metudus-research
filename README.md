@@ -1,26 +1,24 @@
-# metudus
-Independent research media. A Metudus tem posições editoriais, os factos não.
+# metudus.pt
 
 Metudus is an independent digital publication focused on independent research, analysis and opinion about what is shaping the contemporary world. The objective is not to cover everything that happens, but to investigate, explain and challenge what matters.
 
 Metudus combines four editorial modes:
 
-Reporting
+# Reporting
 What happened? Who, what, when, where, how and why.
 
-Research
+# Research
 What is happening underneath the surface? Primary sources, documents, datasets and independent investigation.
 
-Analysis
+# Analysis
 What does it mean? Economic, political, financial, technological and social interpretation.
 
-Opinion
+# Opinion
 What should happen? Clearly identified editorial positions, supported by argument and evidence.
 
-When value is added, Metudus uses data, mathematics, statistics, Python and other analytical tools to quantify what matters.
+# When value is added, Metudus uses data, mathematics, statistics, Python and other analytical tools to quantify what matters.
 
 Metudus is intentionally broad. Its strongest areas of interest include:
-
 Portugal
 European Union
 Crypto & Web3
@@ -29,17 +27,15 @@ Emerging markets and global affairs
 Society and it's issues
 Innovation
 
-The goal is not to make every article academic. The goal is to make quantitative and research-heavy work inspectable and reproducible where appropriate.
-
 Metudus prioritises primary and authoritative sources wherever possible, including official statistics, legislation, regulatory documents, company filings and institutional publications.
 Secondary reporting may provide context and discovery, but significant factual claims should ultimately be traceable to credible underlying sources.
 
-Standards:
+# Standards:
 Facts should be sourced;
 Quantitative claims should be documented;
 Assumptions used in models should be disclosed.
 
-Use of AI:
+# Use of AI:
 AI may be used as an analytical or technical tool for tasks such as coding assistance, data cleaning or research organisation.
 AI does not and never shall replace source verification, quantitative validation, editorial judgement or authorship!
 
